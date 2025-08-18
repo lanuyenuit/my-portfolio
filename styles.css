@@ -8,7 +8,25 @@ html,body {
 
 #nav-bar {
   background-color: #be3144;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;  
 }
+
+@media (max-width: 768px) {
+  #navbar ul {
+    flex-direction: column;   
+    text-align: center;
+  }
+}
+
+body {
+  margin: 0;
+  padding-top: 60px; /* adjust to your navbar height */
+}
+
 
 .nav-list {
   display: flex;
