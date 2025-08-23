@@ -26,6 +26,13 @@ const projectsData = [
     link: "https://lanuyenuit.github.io/technical-documentation-page/",
     alt: "Technical_Documentation_Page",
     description: "A technical documentation page to serve as instruction or reference for a topic."
+  },
+  {
+    title: "Palindrom Checker",
+    image: "images/palindrome-checker.png",
+    link: "https://lanuyenuit.github.io/palindrome-checker/",
+    alt: "Palindrome-checker",
+    description: "A page to check if your sentence is palindrome."
   }
 ]
 
