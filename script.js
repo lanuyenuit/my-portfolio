@@ -28,7 +28,7 @@ const projectsData = [
     description: "A technical documentation page to serve as instruction or reference for a topic."
   },
   {
-    title: "Palindrom Checker",
+    title: "Palindrome Checker",
     image: "images/palindrome-checker.png",
     link: "https://lanuyenuit.github.io/palindrome-checker/",
     alt: "Palindrome-checker",
