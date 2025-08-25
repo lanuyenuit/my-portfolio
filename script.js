@@ -41,9 +41,7 @@ const projectsData = [
     alt: "Roman-numeral-converter",
     description: "A page to convert a number to Roman."
   }
-  
 ]
-
 
 const projects = document.querySelector('#projects-list');
 
