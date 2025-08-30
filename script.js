@@ -40,8 +40,17 @@ const projectsData = [
     link: "https://lanuyenuit.github.io/roman-numeral-converter/",
     alt: "Roman-numeral-converter",
     description: "A page to convert a number to Roman."
-  }
+  },
+    {
+    title: "Telephone Number Validator",
+    image: "images/telephone-number-validator.png",
+    link: "https://lanuyenuit.github.io/roman-numeral-converter/",
+    alt: "Telephone-number-validator",
+    description: "A page to check a telephone number in US."
+  },
+  
 ]
+
 
 const projects = document.querySelector('#projects-list');
 
